@@ -1,0 +1,14 @@
+There are several python tools in a folder named software. I want to be able to use each of them without having to close and open each of them. I need you to build a single user interface that allows me to use the matrix_cam.py, voice_changer.py, beat_box.py, and screen_fx.py all from inside that user interface. It should be easy to use with tabs for each tool so I can switch back and forth between them. I want it to keep the hacker vibe that the matrix cam has so use black and green and maybe some electric blue too. All the tools must keep working as they are too though, so create a new file that uses the code from each of these tools. 
+
+I want to be able to use this program on Windows without having to write any python code, so you should create an executable file that i can run by double clicking. This is how the program must work.
+
+ Also, I want you to put all your work in a new folder so I can see everything you have done. I need you to show your work as you go. Document everything from your thoughts to your actions so I can see what you did. 
+
+---------------------------------
+The goal: To have one user interface that operates all 4 tools that I want to use without breaking any working code. 
+
+The sources: You can use anything in the software folder. I want you to put your work in a separate folder and make sure to show your work as you go. The tools I want in the new program are: matrix_cam.py, voice_changer.py, screen_fx.py, and beat_box.py
+
+The output: You should create a folder to hold your work, you should show your work as you go, and you should create an executable file that runs the program on Windows. 
+
+The standard: A good implementation will use Tkinter or a similar library to create the GUI. It will also use pyinstaller to create an executable file. 
